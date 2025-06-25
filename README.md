@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/dileepbgowda](www.linkedin.com/in/dileepbgowda)
+- 👨‍💻 Social Link [www.linkedin.com/in/dileepbgowda](www.linkedin.com/in/dileepbgowda)
 
 - 💬 Ask me about **DevOps**
 
